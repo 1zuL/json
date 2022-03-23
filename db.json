@@ -1,15 +1,14 @@
-{
-
-    [
-    {
-      "id": 543,
-      "detail_user_id": 123,
-      "title": "maind blowing",
-      "course_type_id": 1,
-      "price": "200.000",
-      "discount": "10",
-      "created_at": "2020-05-05",
-      "benefit": "this is the benefit of the course"
-    }
-]
-}
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Kucing oyen",
+    "body": "Percobaan"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+  },
+    ]
